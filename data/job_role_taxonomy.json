@@ -1,0 +1,57 @@
+{
+    "Data Analyst": {
+        "must_have": [
+            "python",
+            "sql",
+            "excel",
+            "pandas",
+            "numpy"
+        ],
+        "nice_to_have": [
+            "tableau",
+            "power bi",
+            "statistics"
+        ]
+    },
+    "Data Scientist": {
+        "must_have": [
+            "python",
+            "pandas",
+            "scikit-learn",
+            "tensorflow",
+            "opencv"
+        ],
+        "nice_to_have": [
+            "deep learning",
+            "nlp",
+            "xgboost"
+        ]
+    },
+    "Backend Developer": {
+        "must_have": [
+            "python",
+            "flask",
+            "django",
+            "sql",
+            "rest api"
+        ],
+        "nice_to_have": [
+            "docker",
+            "aws",
+            "git"
+        ]
+    },
+    "Game Developer": {
+        "must_have": [
+            "unity",
+            "c#",
+            "oop",
+            "git"
+        ],
+        "nice_to_have": [
+            "design patterns",
+            "shader",
+            "ai"
+        ]
+    }
+}

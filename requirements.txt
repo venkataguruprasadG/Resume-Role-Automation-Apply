@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+spacy
+nltk
+rapidfuzz
+pymupdf
+python-docx
+streamlit
